@@ -1,0 +1,11 @@
+{
+    "updateUrl":"http://hm1.lanyou888.cn/haomi1.apk",
+    "domainUrl":"http://mobile.lanyou888.cn",
+    "versions":
+    [
+        {
+            "version":1000,
+            "status":"release"
+        }
+    ]
+}
